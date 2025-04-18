@@ -37,28 +37,30 @@ The dataset includes customer demographic and behavioral information such as:
 ### 1. Data Types and Null Values Overview
 Shows the structure of the dataset and missing values.
 
-![Data Types and Null Values](C:\Users\venka\OneDrive\Pictures\Screenshots\Screenshot 2025-04-18 185858.png)
+![Data Types and Null Values](https://github.com/user-attachments/assets/3b5a8ae1-cf4b-445f-ba9b-a8d4f3e0654b)
 
 ---
 
 ### 2. Classification Report
 Illustrates performance metrics of a classification model predicting campaign responses.
 
-![Classification Report](C:\Users\venka\OneDrive\Pictures\Screenshots\Screenshot 2025-04-18 185932.png)
+
+![Classification Report](https://github.com/user-attachments/assets/f59a578a-6253-41df-a909-3f0f8f648d96)
 
 ---
 
 ### 3. Budget Allocation
 Visualizes recommended spending distribution across marketing channels.
 
-![Marketing Budget Pie Chart](C:\Users\venka\OneDrive\Pictures\Screenshots\Screenshot 2025-04-18 185950.png)
+![Marketing Budget Pie Chart](https://github.com/user-attachments/assets/26c5f82c-af63-40c1-95ca-fada8d6045a6)
 
 ---
 
 ### 4. Spend vs Revenue vs Response
 Scatter plot analyzing marketing spend vs revenue and customer response.
 
-![Spend vs Revenue]("C:\Users\venka\Downloads\download.png")
+
+![Speed vs Revenue](https://github.com/user-attachments/assets/a920ad27-af63-4ce3-9866-088baa909c61)
 
 ---
 
