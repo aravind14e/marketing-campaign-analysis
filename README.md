@@ -37,21 +37,21 @@ The dataset includes customer demographic and behavioral information such as:
 ### 1. Data Types and Null Values Overview
 Shows the structure of the dataset and missing values.
 
-![Data Types and Null Values]("C:\Users\venka\OneDrive\Pictures\Screenshots\Screenshot 2025-04-18 185858.png")
+![Data Types and Null Values](C:\Users\venka\OneDrive\Pictures\Screenshots\Screenshot 2025-04-18 185858.png)
 
 ---
 
 ### 2. Classification Report
 Illustrates performance metrics of a classification model predicting campaign responses.
 
-![Classification Report]("C:\Users\venka\OneDrive\Pictures\Screenshots\Screenshot 2025-04-18 185932.png")
+![Classification Report](C:\Users\venka\OneDrive\Pictures\Screenshots\Screenshot 2025-04-18 185932.png)
 
 ---
 
 ### 3. Budget Allocation
 Visualizes recommended spending distribution across marketing channels.
 
-![Marketing Budget Pie Chart]("C:\Users\venka\OneDrive\Pictures\Screenshots\Screenshot 2025-04-18 185950.png")
+![Marketing Budget Pie Chart](C:\Users\venka\OneDrive\Pictures\Screenshots\Screenshot 2025-04-18 185950.png)
 
 ---
 
